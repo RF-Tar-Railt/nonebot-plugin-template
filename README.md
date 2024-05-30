@@ -31,9 +31,9 @@ _✨ <your_plugin_description> ✨_
     - 全局替换`nonebot_plugin_template` 为你插件的包名 (用于 python 导入等)
     - 全局替换`<your_plugin_humanized_name>` 为你插件的可读名 (用于插件商店 等)
     - 全局替换`<your_plugin_description>` 为你插件的简单描述
-    - 全局替换`<your_name>` 为你的用户名
-    - 全局替换`<your_email>` 为你的邮箱
     - 全局替换`<your_github>` 为你的 github 用户名
+    - 全局替换`<your_email>` 为你的邮箱
+    
 6. 修改 README 中的插件名和插件描述, 并在下方填充相应的内容
 
 </details>
